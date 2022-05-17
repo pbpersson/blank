@@ -1,6 +1,6 @@
 ---
-title: Test Post Number Two
+title: Test Post Number Three
 ---
 Some test text
 
-This is post number two
+This is post number three
