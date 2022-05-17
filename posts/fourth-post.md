@@ -1,4 +1,4 @@
 ---
-title: Sixth post
+title: Seventh post
 ---
-Test post number six
+Test post number seven
